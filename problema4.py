@@ -1,9 +1,8 @@
-#achando os números primos para n
-n = int(input())
 #The prime factors of 13195 are 5, 7, 13 and 29.
 #What is the largest prime factor of the number 600851475143 ?
 
-
+#achando os números primos para n
+n = int(input())
 L = [2]
 j = 2
 a = True
